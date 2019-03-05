@@ -1,0 +1,8 @@
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDTO\bin\Debug\netcoreapp2.1\OmniApiDTO.deps.json
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDTO\bin\Debug\netcoreapp2.1\OmniApiDTO.dll
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDTO\bin\Debug\netcoreapp2.1\OmniApiDTO.pdb
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDTO\obj\Debug\netcoreapp2.1\OmniApiDTO.csproj.CoreCompileInputs.cache
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDTO\obj\Debug\netcoreapp2.1\OmniApiDTO.AssemblyInfoInputs.cache
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDTO\obj\Debug\netcoreapp2.1\OmniApiDTO.AssemblyInfo.cs
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDTO\obj\Debug\netcoreapp2.1\OmniApiDTO.dll
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDTO\obj\Debug\netcoreapp2.1\OmniApiDTO.pdb

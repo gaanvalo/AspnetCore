@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OmniApiDTO", "OmniApiDTO\OmniApiDTO.csproj", "{1688B94C-7866-4DE6-BAE6-6968AB208943}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OmniApiDAL", "OmniApiDAL\OmniApiDAL.csproj", "{4D030BDC-EB55-4A49-8D44-0E32318124A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmniApi", "OmniApi\OmniApi.csproj", "{AEDE3B4B-6F1C-41A7-85D3-C616BFD61162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1688B94C-7866-4DE6-BAE6-6968AB208943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1688B94C-7866-4DE6-BAE6-6968AB208943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1688B94C-7866-4DE6-BAE6-6968AB208943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1688B94C-7866-4DE6-BAE6-6968AB208943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D030BDC-EB55-4A49-8D44-0E32318124A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D030BDC-EB55-4A49-8D44-0E32318124A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D030BDC-EB55-4A49-8D44-0E32318124A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D030BDC-EB55-4A49-8D44-0E32318124A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDE3B4B-6F1C-41A7-85D3-C616BFD61162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDE3B4B-6F1C-41A7-85D3-C616BFD61162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDE3B4B-6F1C-41A7-85D3-C616BFD61162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDE3B4B-6F1C-41A7-85D3-C616BFD61162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02262AC4-38BA-4B6E-9BF6-AC887EEC105A}
+	EndGlobalSection
+EndGlobal

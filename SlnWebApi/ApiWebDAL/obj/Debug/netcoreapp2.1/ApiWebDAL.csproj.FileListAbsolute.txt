@@ -1,0 +1,12 @@
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\bin\Debug\netcoreapp2.1\ApiWebDAL.deps.json
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\bin\Debug\netcoreapp2.1\ApiWebDAL.dll
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\obj\Debug\netcoreapp2.1\ApiWebDAL.csproj.CoreCompileInputs.cache
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\obj\Debug\netcoreapp2.1\ApiWebDAL.AssemblyInfoInputs.cache
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\obj\Debug\netcoreapp2.1\ApiWebDAL.AssemblyInfo.cs
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\bin\Debug\netcoreapp2.1\ApiWebDAL.pdb
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\bin\Debug\netcoreapp2.1\ApiWebDTO.dll
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\bin\Debug\netcoreapp2.1\ApiWebDTO.pdb
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\obj\Debug\netcoreapp2.1\ApiWebDAL.csprojAssemblyReference.cache
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\obj\Debug\netcoreapp2.1\ApiWebDAL.csproj.CopyComplete
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\obj\Debug\netcoreapp2.1\ApiWebDAL.dll
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDAL\obj\Debug\netcoreapp2.1\ApiWebDAL.pdb

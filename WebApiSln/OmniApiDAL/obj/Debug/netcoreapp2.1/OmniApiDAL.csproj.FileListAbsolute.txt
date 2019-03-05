@@ -1,0 +1,12 @@
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\obj\Debug\netcoreapp2.1\OmniApiDAL.csprojAssemblyReference.cache
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\obj\Debug\netcoreapp2.1\OmniApiDAL.csproj.CoreCompileInputs.cache
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\obj\Debug\netcoreapp2.1\OmniApiDAL.AssemblyInfoInputs.cache
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\obj\Debug\netcoreapp2.1\OmniApiDAL.AssemblyInfo.cs
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\bin\Debug\netcoreapp2.1\OmniApiDAL.deps.json
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\bin\Debug\netcoreapp2.1\OmniApiDAL.dll
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\bin\Debug\netcoreapp2.1\OmniApiDAL.pdb
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\bin\Debug\netcoreapp2.1\OmniApiDTO.dll
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\bin\Debug\netcoreapp2.1\OmniApiDTO.pdb
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\obj\Debug\netcoreapp2.1\OmniApiDAL.csproj.CopyComplete
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\obj\Debug\netcoreapp2.1\OmniApiDAL.dll
+C:\Users\vallejga\source\repos\WebApiSln\OmniApiDAL\obj\Debug\netcoreapp2.1\OmniApiDAL.pdb

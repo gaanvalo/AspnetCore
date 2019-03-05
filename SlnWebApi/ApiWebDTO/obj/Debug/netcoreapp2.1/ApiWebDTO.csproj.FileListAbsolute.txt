@@ -1,0 +1,8 @@
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDTO\bin\Debug\netcoreapp2.1\ApiWebDTO.deps.json
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDTO\bin\Debug\netcoreapp2.1\ApiWebDTO.dll
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDTO\bin\Debug\netcoreapp2.1\ApiWebDTO.pdb
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDTO\obj\Debug\netcoreapp2.1\ApiWebDTO.csproj.CoreCompileInputs.cache
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDTO\obj\Debug\netcoreapp2.1\ApiWebDTO.AssemblyInfoInputs.cache
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDTO\obj\Debug\netcoreapp2.1\ApiWebDTO.AssemblyInfo.cs
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDTO\obj\Debug\netcoreapp2.1\ApiWebDTO.dll
+C:\Users\vallejga\source\repos\SlnWebApi\ApiWebDTO\obj\Debug\netcoreapp2.1\ApiWebDTO.pdb
